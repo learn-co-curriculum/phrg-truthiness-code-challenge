@@ -46,7 +46,7 @@ end
 [x] false
 [x] 8 > 9
 [x] !true
-[x] 9 < 6
+[ ] !false
 
 ?: What value(s) for `?` will make `using_truthiness` return `true`?
 
