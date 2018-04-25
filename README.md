@@ -63,4 +63,4 @@ end
 
 ???
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/truthiness-code-challenge' title='Truthiness Code Challenge'>Truthiness Code Challenge</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Truthiness Code Challenge</p>
